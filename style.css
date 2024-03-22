@@ -1,0 +1,20 @@
+#header {
+
+}
+
+#filters {
+    background-color: #040138;
+    color: #FFFFFF;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
